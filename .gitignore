@@ -12,7 +12,6 @@
 *.html
 
 # Latex auxiliary files
-*.tex
 *tikzDictionary
 *.bbl
 *.bcf
