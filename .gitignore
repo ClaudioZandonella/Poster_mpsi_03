@@ -1,0 +1,37 @@
+# R auxiliary files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Mac auxiliary files
+.DS_Store
+
+# Markdown auxiliary files
+*.html
+
+# Latex auxiliary files
+*.tex
+*tikzDictionary
+*.bbl
+*.bcf
+*.lof
+*.log
+*.lot
+*.xml
+*.gz
+*.toc
+*.lpr
+
+# Ignore folder with images
+#figure/
+
+
+# Ignore folder with data
+Rdata/
+
+# Ignore other files
+
+Abstract_MPSI_03
+Abstract_MPSI_03.pages
